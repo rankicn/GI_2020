@@ -1,6 +1,6 @@
 # Boyer-Moore algorithm heuristics
 
-The main goal of this project is implementation of Boyer-Moore algorithm and heuristics comparison. Implemented herustics: 
+The main goal of this project is implementation of Boyer-Moore algorithm and heuristics comparison. Implemented heuristics: 
 - regular Boyer-Moore
 - Zhu-Takaoka
 - Smith 
